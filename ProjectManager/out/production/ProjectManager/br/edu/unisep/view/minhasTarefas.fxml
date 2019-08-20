@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="664.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.edu.unisep.controller.MinhasTarefasController">
+   <children>
+      <ListView fx:id="lstAfazer" layoutX="14.0" layoutY="50.0" onDragDetected="#gragAfazerStart" onDragOver="#DragOver" prefHeight="336.0" prefWidth="200.0" />
+      <ListView fx:id="lstFazendo" layoutX="232.0" layoutY="54.0" onDragDetected="#dragFazendoStart" onDragDropped="#dropAfazer" onDragOver="#DragOver" prefHeight="336.0" prefWidth="200.0" />
+      <ListView fx:id="lstFeito" layoutX="450.0" layoutY="54.0" onDragDropped="#dropFeito" onDragOver="#DragOver" prefHeight="336.0" prefWidth="200.0" />
+      <Label layoutX="14.0" layoutY="29.0" text="Não Iniciados" />
+      <Label layoutX="232.0" layoutY="29.0" text="Em andamento" />
+      <Label layoutX="450.0" layoutY="29.0" text="Finalizados" />
+   </children>
+</AnchorPane>

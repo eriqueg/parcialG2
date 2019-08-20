@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.edu.unisep.Controller">
+   <children>
+      <Label layoutX="36.0" layoutY="24.0" text="Controle de Ocorrencias de TI" />
+      <TableView fx:id="tabOcorrencia" layoutX="15.0" layoutY="59.0" prefHeight="295.0" prefWidth="576.0" AnchorPane.bottomAnchor="46.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="10.0">
+        <columns>
+          <TableColumn fx:id="colOcorrencia" prefWidth="156.0" text="Ocorrência" />
+          <TableColumn fx:id="colData" minWidth="0.0" prefWidth="84.0" text="Data" />
+            <TableColumn fx:id="colPrioridade" prefWidth="119.0" text="Prioridade" />
+            <TableColumn fx:id="colStatus" prefWidth="90.0" text="Status" />
+            <TableColumn fx:id="colEmail" prefWidth="126.0" text="Solicitante" />
+        </columns>
+      </TableView>
+      <Button layoutX="25.0" layoutY="361.0" mnemonicParsing="false" onAction="#abrirNovo" text="Nova Ocorrência" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="25.0" />
+      <Button layoutX="151.0" layoutY="374.0" mnemonicParsing="false" onAction="#fecharOcorrencia" text="Fechar Ocorrência" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="151.0" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="199fda6d-74f0-4be4-957d-3bb2eab99ff0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/Compras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/src/br/edu/unisep/VO/ProdutoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compras/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/Ex01_CalculadoraPrestacoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/out/production/Ex01_CalculadoraPrestacoes/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/out/production/Ex01_CalculadoraPrestacoes/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/out/production/Ex01_CalculadoraPrestacoes/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01_CalculadoraPrestacoes/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/ControlePressao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/out/production/ControlePressao/br/edu/unisep/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/out/production/ControlePressao/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/out/production/ControlePressao/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/out/production/ControlePressao/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/out/production/ControlePressao/br/edu/unisep/model/vo/MedicaoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex03/src/br/edu/unisep/model/vo/MedicaoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/ExemploDragDrop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/out/production/ExemploDragDrop/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/out/production/ExemploDragDrop/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/out/production/ExemploDragDrop/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploDragDrop/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/ExercicioII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioII/src/sample/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/FichaEPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/br/edu/unisep/model/vo/EpiVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/br/edu/unisep/model/vo/FuncionarioVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaEPI/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/byte-buddy-1.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/hibernate-core-5.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibUnisepFX/lib_unisepfx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/Ocorrencias.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/ControllerNovo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/modules/DAO/GenericDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/modules/DAO/OcorrenciaDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/modules/VO/OcorrenciaVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/modules/hibernate/HibernateSessionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/out/production/Ocorrencias/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/ControllerNovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/modules/DAO/GenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/modules/DAO/OcorrenciaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/modules/VO/OcorrenciaVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/modules/hibernate/HibernateSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ocorrencias/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/Ola Mundo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/out/production/Ola Mundo/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/out/production/Ola Mundo/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/out/production/Ola Mundo/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ola Mundo/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/ProjectManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/EquipeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/MeusProjetosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/MinhasTarefasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/NovaTarefaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/NovoProjetoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/controller/ProjetosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/dao/MembroEquipeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/dao/ProjetoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/dao/TarefaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/dao/UsuarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/vo/ClienteVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/vo/MembroEquipeVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/vo/ProjetoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/vo/TarefaVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/model/vo/UsuarioVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/utils/UsuarioUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/MembroEquipeCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/NovaTarefaCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/ProjetoCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/TarefaCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/UsuarioCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/equipe.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/home.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/img/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/img/project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/img/users.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/item_nova_tarefa.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/item_projeto.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/item_usuario.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/meusProjetos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/minhasTarefas.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/novaTarefa.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/novoProjeto.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/br/edu/unisep/view/projetos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectManager/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/ProntoSocorro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/Controller2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/mainNovo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/dao/AtendimentoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/dao/EspecialidadeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/dao/PlanoSaudeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/vo/AtendimentoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/vo/EspecialidadeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/out/production/ProntoSocorro/br/edu/unisep/model/vo/PlanoSaudeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProntoSocorro/src/br/edu/unisep/mainNovo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/ProvaG1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/ClientesController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/NovoClienteController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/NovoServicoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/ServicosController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/clientes.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/model/dao/ClienteDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/model/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/model/dao/ServicoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/model/vo/ClienteVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/model/vo/ServicoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/novoCliente.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/novoServico.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/out/production/ProvaG1/br/edu/unisep/servicos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/ClientesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/NovoClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/NovoServicoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/ServicosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/clientes.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/model/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/model/dao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/model/dao/ServicoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/model/vo/ClienteVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/model/vo/ServicoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/novoCliente.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/novoServico.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaG1/src/br/edu/unisep/servicos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabalhoMatematica/TrabalhoMatematica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/NovoLivroController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/model/dao/AutorDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/model/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/model/dao/LivroDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/model/vo/AutorVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/model/vo/LivroVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/out/production/biblioteca/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/NovoLivroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/model/dao/AutorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/model/dao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/model/dao/LivroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/model/vo/AutorVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/model/vo/LivroVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca v.2.0/src/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/NovoLivroController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/model/dao/AutorDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/model/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/model/dao/LivroDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/model/vo/AutorVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/model/vo/LivroVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/out/production/biblioteca/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/NovoLivroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/model/dao/AutorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/model/dao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/model/dao/LivroDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/model/vo/AutorVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/model/vo/LivroVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../biblioteca/src/br/edu/unisep/novo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/controleHorarios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/CursosController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/DisciplinasController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/NovaDisciplinaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/NovoCursoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/NovoProfessorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/ProfessoresController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/cursos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/disciplinas.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/dao/Conexao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/dao/CursoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/dao/DisciplinaDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/dao/ProfessorDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/vo/CursoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/vo/DisciplinaVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/model/vo/ProfessorVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/novaDisciplina.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/novoCurso.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/novoProfessor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/out/production/controleHorarios/br/edu/unisep/professores.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/CursosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/DisciplinasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/NovaDisciplinaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/NovoCursoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/NovoProfessorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/ProfessoresController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/cursos.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/disciplinas.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/dao/Conexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/dao/CursoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/dao/DisciplinaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/dao/ProfessorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/vo/CursoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/vo/DisciplinaVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/model/vo/ProfessorVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/novaDisciplina.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/novoCurso.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/novoProfessor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controleHorarios/src/br/edu/unisep/professores.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/dictionaries/Cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/controlePressao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/out/production/controlePressao/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/src/br/edu/unisep/model/dao/MedicaoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao/src/br/edu/unisep/model/vo/MedicaoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/controlePressao2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/META-INF/controlePressao2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/model/dao/MedicaoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/model/hibernate/HibernateSessionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/br/edu/unisep/model/vo/MedicaoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/out/production/controlePressao2/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/model/dao/MedicaoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/model/hibernate/HibernateSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/br/edu/unisep/model/vo/MedicaoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../controlePressao2/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/out/production/ex02/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/out/production/ex02/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/out/production/ex02/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex02/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/exemploListView.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/model/vo/ContatoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/view/ContatoCell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/br/edu/unisep/view/item_contato.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/out/production/exemploListView/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/model/vo/ContatoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/view/ContatoCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/br/edu/unisep/view/item_contato.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exemploListView/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/listaCompras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/hibernate/HibernateSessionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/produtoDAO/produtoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/br/edu/unisep/produtoVO/ProdutoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/out/production/listaCompras/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/hibernate/HibernateSessionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/produtoDAO/GenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/produtoDAO/produtoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/br/edu/unisep/produtoVO/ProdutoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras V1.2/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/listaCompras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/out/production/listaCompras/META-INF/listaCompras.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/out/production/listaCompras/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/out/production/listaCompras/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/out/production/listaCompras/br/edu/unisep/produtoDAO/produtoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/out/production/listaCompras/br/edu/unisep/produtoVO/ProdutoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/src/br/edu/unisep/produtoDAO/produtoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras/src/br/edu/unisep/produtoVO/ProdutoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/listaCompras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/ProdutoVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/dao/ProdutoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/out/production/listaCompras/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/src/br/edu/unisep/ProdutoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/src/br/edu/unisep/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listaCompras2/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeJanela/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeJanela/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeJanela/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeJanela/src/br/edu/unisep/Tela2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeJanela/src/br/edu/unisep/tela2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/template-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/br/edu/unisep/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/br/edu/unisep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/br/edu/unisep/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="62" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/EncaminhamentoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-148">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/CandidatoVagaVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/dao/VagaDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/VagaCell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/NovaVagaController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/VagaVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1644#1645#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/Main.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/item_empresa.fxml" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/item_vaga.fxml" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/item_candidato.fxml" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/nova_vaga.fxml" />
+        <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/encaminhar.fxml" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/vo/CandidatoVO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/vo/RamoAtividadeVO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/vo/EmpresaVO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/vo/VagaVO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/vo/CandidatoVagaVO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/EmpresaCell.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/CandidatoVagaCell.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/CandidatoCell.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/MainController.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/NovaVagaController.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/view/VagaCell.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/model/dao/VagaDAO.java" />
+        <option value="$PROJECT_DIR$/src/br/edu/unisep/EncaminhamentoController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unisep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unisep" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unisep" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unisep" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobsManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobsManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unisep" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561161234640" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.edu.unisep.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.edu.unisep.Main" />
+      <module name="JobsManager" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_FX} --add-modules=${MODULES_FX}" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.edu.unisep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="199fda6d-74f0-4be4-957d-3bb2eab99ff0" name="Default Changelist" comment="" />
+      <created>1561030629266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561030629266</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32526475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16103059" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/item_vaga.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/item_empresa.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/CandidatoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/RamoAtividadeVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/EmpresaVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/nova_vaga.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/encaminhamento.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/item_candidato.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/CandidatoVagaCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/CandidatoCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/EmpresaCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PATH_FX$/javafx.fxml.jar!/javafx/fxml/FXMLLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="1202" column="74" lean-forward="true" selection-start-line="1202" selection-start-column="74" selection-end-line="1202" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="62" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/CandidatoVagaVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/view/VagaCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/vo/VagaVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/NovaVagaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/model/dao/VagaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/edu/unisep/EncaminhamentoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-codec</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JobsManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

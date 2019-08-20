@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.edu.unisep.Controller2">
+   <children>
+      <Label layoutX="36.0" layoutY="14.0" text="Paciente:" />
+      <Label layoutX="33.0" layoutY="68.0" text="Plano de saúde:" />
+      <Label layoutX="33.0" layoutY="122.0" text="Data de Nascimento:" />
+      <Label layoutX="349.0" layoutY="68.0" text="Especialidade:" />
+      <Label layoutX="34.0" layoutY="174.0" text="Sintomas:" />
+      <TextField fx:id="txtPaciente" layoutX="33.0" layoutY="31.0" prefHeight="25.0" prefWidth="449.0" />
+      <DatePicker fx:id="nascimento" layoutX="33.0" layoutY="139.0" prefHeight="25.0" prefWidth="132.0" />
+      <HBox layoutX="220.0" layoutY="371.0" prefHeight="25.0" prefWidth="175.0" spacing="50.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#salvar" text="Salvar" />
+            <Button lineSpacing="30.0" mnemonicParsing="false" onAction="#cancelar" text="Cancelar" />
+         </children>
+      </HBox>
+      <ChoiceBox fx:id="planoSaude" layoutX="31.0" layoutY="97.0" prefHeight="25.0" prefWidth="231.0" AnchorPane.leftAnchor="31.0" AnchorPane.topAnchor="97.0" />
+      <TextArea fx:id="txtSintomas" layoutX="31.0" layoutY="191.0" prefHeight="173.0" prefWidth="567.0" AnchorPane.bottomAnchor="36.0" AnchorPane.leftAnchor="31.0" AnchorPane.rightAnchor="2.0" />
+      <ChoiceBox fx:id="especialidade" layoutX="349.0" layoutY="97.0" prefHeight="25.0" prefWidth="231.0" />
+   </children>
+</AnchorPane>

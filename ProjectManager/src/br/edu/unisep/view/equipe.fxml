@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="519.0" prefWidth="630.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.edu.unisep.controller.EquipeController">
+   <children>
+      <Label layoutX="393.0" layoutY="14.0" text="Equipe do Projeto" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="14.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="52.0" text="Usuários disponíveis para a equipe:" />
+      <ListView fx:id="listUsuarios" layoutX="14.0" layoutY="74.0" onDragDetected="#dragStartUsuarios" onDragDropped="#dropUsuarios" onDragOver="#dragOver" prefHeight="430.0" prefWidth="290.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" />
+      <ListView fx:id="listEquipe" layoutX="342.0" layoutY="75.0" onDragDetected="#dragStartMembros" onDragDropped="#dropMembros" onDragOver="#dragOver" prefHeight="430.0" prefWidth="290.0" AnchorPane.bottomAnchor="14.0" AnchorPane.rightAnchor="14.0" />
+      <Label layoutX="326.0" layoutY="52.0" text="Membros da equipe:" />
+   </children>
+</AnchorPane>

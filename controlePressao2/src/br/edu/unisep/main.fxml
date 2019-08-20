@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="527.0" prefWidth="454.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.edu.unisep.Controller">
+    <children>
+        <Label layoutX="14.0" layoutY="14.0" text="Data de Medição" />
+        <TextField fx:id="sis" layoutX="144.0" layoutY="59.0" prefHeight="40.0" prefWidth="103.0" />
+        <DatePicker fx:id="data" layoutX="119.0" layoutY="10.0" prefHeight="25.0" prefWidth="128.0" />
+        <Label layoutX="14.0" layoutY="59.0" text="Medição:" />
+        <Label layoutX="83.0" layoutY="70.0" text="Sistólica:" />
+        <TextField fx:id="dis" layoutX="144.0" layoutY="114.0" prefHeight="40.0" prefWidth="103.0" />
+        <Label layoutX="83.0" layoutY="125.0" text="Diastólica" />
+        <HBox alignment="CENTER" layoutY="170.0" prefHeight="17.0" prefWidth="200.0" spacing="15.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0">
+            <children>
+                <Button defaultButton="true" mnemonicParsing="false" onAction="#salvar" text="Salvar" />
+                <Button cancelButton="true" mnemonicParsing="false" onAction="#limpar" text="Limpar" />
+            </children>
+        </HBox>
+        <TableView fx:id="tabMedicoes" layoutX="127.0" layoutY="195.0" onMouseClicked="#selecionarItemLista" onSort="#excluir" prefHeight="271.0" prefWidth="426.0" AnchorPane.bottomAnchor="49.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0">
+            <columns>
+                <TableColumn fx:id="colData" minWidth="4.0" prefWidth="106.0" resizable="false" text="Data" />
+                <TableColumn fx:id="colSistolica" minWidth="4.0" prefWidth="107.0" resizable="false" text="Sistólica" />
+                <TableColumn fx:id="colDiastolica" minWidth="4.0" prefWidth="115.0" resizable="false" text="Diastólica" />
+                <TableColumn fx:id="colResult" minWidth="4.0" prefWidth="97.0" resizable="false" text="Resultado" />
+            </columns>
+            <columnResizePolicy>
+                <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+            </columnResizePolicy>
+        </TableView>
+        <Button layoutX="33.0" layoutY="488.0" mnemonicParsing="false" onAction="#excluir" prefHeight="25.0" prefWidth="53.0" text="Excluir" />
+    </children>
+</AnchorPane>
